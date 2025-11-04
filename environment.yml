@@ -1,0 +1,5 @@
+name: binder
+channels: ["conda-forge"]
+dependencies:
+- python
+- pandas
